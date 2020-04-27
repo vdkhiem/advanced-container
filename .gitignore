@@ -1,0 +1,4 @@
+*.zip
+/app/Natasha*.*
+/app/Dockerfile
+.vscode
